@@ -18,14 +18,15 @@ Here are some ideas to get you started:
 - 🔭 I’m currently building web applications.
 - 👯 I'm open for collaborations in projects using PHP, Laravel, Vue.js and Nuxt.js.
 
-#### **Languages and Tools:**  
-<code><img height="20" src="icons/javascript.png"></code>
-<code><img height="20" src="icons/vuejs.png"></code>
-<code><img height="20" src="icons/nuxtjs.png"></code>
-<code><img height="20" src="icons/nodejs.png"></code>
-<code><img height="20" src="icons/php.png"></code>
-<code><img height="20" src="icons/laravel.png"></code>
+#### Languages and Tools :wrench:  
+<code><img height="20" src="icons/javascript.png" title="Vanilla Javascript" /></code>
+<code><img height="20" src="icons/vuejs.png" title="Vue.js"></code>
+<code><img height="20" src="icons/nuxtjs.png" title="Nuxt.js"></code>
+<code><img height="20" src="icons/nodejs.png" title="Node.js"></code>
+<code><img height="20" src="icons/php.png" title="PHP"></code>
+<code><img height="20" src="icons/laravel.png" title="Laravel"></code>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=outama-othmane)
 #### Get in touch :speech_balloon:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/outamaothmane/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/outama.othmane)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=outama-othmane)
